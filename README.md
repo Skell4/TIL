@@ -2,6 +2,12 @@
 
 ![TIL - Terminal Input Library](assets/til-banner.png)
 
+[![C++: 11](https://img.shields.io/badge/C%2B%2B-11-00599C?logo=cplusplus&logoColor=white)](#1-build-and-run)
+[![Header-only](https://img.shields.io/badge/header--only-7B68EE)](TIL.hpp)
+[![Version: 1.1](https://img.shields.io/badge/version-1.1-7B68EE)](TIL.hpp)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Platforms: Windows | Linux](https://img.shields.io/badge/platforms-Windows%20%7C%20Linux-0078D4)](#14-compatibility-and-implementation)
+
 TIL is a C++ library for reading text, keyboard commands and mouse input in a
 terminal on Windows and Linux. The whole library is in [TIL.hpp](TIL.hpp).
 It needs C++11 or later and has no third-party dependencies.
@@ -1210,7 +1216,9 @@ include the development test suite.
 
 ## 15. License
 
-TIL is available under the [MIT license](LICENSE). It allows use, modification
-and distribution, including commercial use, with the required copyright and
-license notices. The software is provided without warranty. See `LICENSE`
-for the full terms.
+TIL is released under the [MIT License](https://github.com/Skell4/TIL/blob/main/LICENSE).
+
+Artificial intelligence was used to help create this project, including its code
+and documentation.
+
+Copyright © 2026 allekks_b.
